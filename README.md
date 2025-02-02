@@ -40,16 +40,17 @@ python stock_visualization.py
 
 ## Example Visualizations
 ### Closing Prices
-![Closing Prices](example_closing_prices.png)
+![Closing Prices](closing_prices.png)
 
 ### Moving Averages
-![Moving Averages](example_moving_averages.png)
+![TSMC Moving Averages](tsmc_moving_average.png)
+![INTC Moving Averages](INTC_moving_average.png)
 
 ### Rolling Volatility
-![Rolling Volatility](example_rolling_volatility.png)
+![Rolling Volatility](rolling_volatility.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](example_correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ## Author
 [Your Name] - Business Intelligence & Data Visualization Enthusiast
