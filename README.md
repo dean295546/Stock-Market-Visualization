@@ -35,7 +35,7 @@ pip install numpy pandas matplotlib seaborn yfinance
 ### Running the Script
 Simply execute the Python script:
 ```bash
-python stock_visualization.py
+python Stock Market Analysis.ipynb
 ```
 
 ## Example Visualizations
@@ -53,4 +53,4 @@ python stock_visualization.py
 ![Correlation Heatmap](correlation_heatmap.png)
 
 ## Author
-[Your Name] - Business Intelligence & Data Visualization Enthusiast
+Dean - Business Intelligence & Data Visualization Enthusiast
