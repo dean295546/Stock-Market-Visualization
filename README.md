@@ -53,4 +53,4 @@ python Stock Market Analysis.ipynb
 ![Correlation Heatmap](correlation_heatmap.png)
 
 ## Author
-Dean - Business Intelligence & Data Visualization Enthusiast
+Dean
